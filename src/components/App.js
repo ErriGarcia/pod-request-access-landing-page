@@ -1,10 +1,10 @@
-import '../styles/App.scss';
+import '../styles/App.scss'
 import logo from "../images/desktop/logo.svg"
 
 function App() {
   return (
     <div>
-      <img src={logo}></img>
+      <img src={logo} alt="logo"></img>
       <h1>Publish your podcasts everywhere.</h1>
       <p>
         Upload your audio to Pod with a single click. We’ll then distribute your podcast to Spotify, 
@@ -12,7 +12,7 @@ function App() {
         Request access
       </p>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
