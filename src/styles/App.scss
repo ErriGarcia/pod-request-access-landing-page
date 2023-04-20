@@ -1,3 +1,9 @@
+@import './core/reset';
+@import './core/mixins';
+@import './core/variables';
+
 .main-background {
     background-image: url(../images/mobile/image-host.jpg);
+    width: 100vw;
+    height: 100vh;
 }

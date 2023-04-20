@@ -1,4 +1,5 @@
 import logo from '../images/desktop/logo.svg'
+import '../styles/Header.scss'
 
 const Header = () => {
     return (

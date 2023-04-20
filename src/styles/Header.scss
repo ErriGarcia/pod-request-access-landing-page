@@ -1,0 +1,8 @@
+@import './core/mixins';
+@import './core/variables';
+
+.header {
+    display: flex;
+    justify-content: center;
+    padding-top: 62px;
+}
